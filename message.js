@@ -1,3 +1,5 @@
-const message = "Agwu Queen";
-
-module.exports = message;
+function name() {
+    return("Agwu Queen")
+}
+ 
+module.exports = name;
